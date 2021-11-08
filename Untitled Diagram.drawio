@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T17:05:16.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Wk4pQSlTdYw7AuNHS3og" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T18:11:58.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="vLyw4YzjX1XEbL0APuLT" version="15.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1806" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -128,9 +128,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XB7V-jMZPtjMwsfYTOQH-114" value="&lt;b&gt;MODEL BAŞARILI İSE KALICI DEPOLAMAYI SİL&lt;br&gt;(IF MODEL SUCCESSFUL, DELETE PERMANENT STORAGE)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="XB7V-jMZPtjMwsfYTOQH-113">
+        <mxCell id="XB7V-jMZPtjMwsfYTOQH-114" value="&lt;b&gt;MODEL BAŞARILI İSE KALICI DEPOLAMA BİRİMİNİ SİL&lt;/b&gt;&lt;br&gt;&lt;b&gt;IF MODEL SUCCESSFUL, DELETE PERMANENT STORAGE UNİT&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Helvetica;" vertex="1" connectable="0" parent="XB7V-jMZPtjMwsfYTOQH-113">
           <mxGeometry x="-0.3822" y="-1" relative="1" as="geometry">
-            <mxPoint x="104" y="-11" as="offset" />
+            <mxPoint x="88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XB7V-jMZPtjMwsfYTOQH-69" value="&lt;b&gt;MODEL &lt;br&gt;BAŞARILI MI ?&lt;br&gt;(IS THE MODEL &lt;br&gt;SUCCESSFUL?)&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
